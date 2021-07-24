@@ -1,2 +1,2 @@
 # Card-Game-App
-It checks your memory power by showing an image for a few seconds and we have to match those cards as fast as possible
+### This app is created to test your memory power by showing some pairs of card for a very less time and pairing them as fast as you can  
